@@ -1,2 +1,4 @@
 # 30-days-javascript-challange
-From basic to Advance 
+
+## Day 1 : Variable and Data Types
+

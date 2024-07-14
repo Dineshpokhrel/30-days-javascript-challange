@@ -1,4 +1,6 @@
 # 30-days-javascript-challange
 
-## Day 1 : Variable and Data Types
+- **Day 1 : Variable and Data Types**
+- **Day 2 : Operators**
+
 

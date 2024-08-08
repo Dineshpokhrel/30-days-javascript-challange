@@ -18,4 +18,7 @@
 - **Day 16 : Recursion**
 - **Day 17 : Data Structures**
 - **Day 18 : Algorithms**
-
+- **Day 19 : Regular Expression**
+- **Day 20 : LocalStorage and SessionStorage**
+- **Day 21 : LeetCode Easy**
+- **Day 22 : LeetCode Medium**

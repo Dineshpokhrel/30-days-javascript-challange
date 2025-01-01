@@ -22,3 +22,12 @@
 - **Day 20 : LocalStorage and SessionStorage**
 - **Day 21 : LeetCode Easy**
 - **Day 22 : LeetCode Medium**
+- **Day 23 : LeetCode Hard**
+- **Day 24 : Project 1 - Weather App**
+- **Day 25 : Project 2 - Movie Search App**
+- **Day 26 : Project 3 - Chat Application**
+- **Day 27 : Project 4 - Task Management App**
+- **Day 28 : Project 5 - E-commerce Website**
+- **Day 29 : Project 6 - Social Media Dashboard**
+- **Day 30 : Final Project  - Social Media Dashboard with Full Features**
+
